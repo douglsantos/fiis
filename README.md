@@ -6,4 +6,3 @@
     - MFII11
     - RBCB11
     - FIGS11
-    - MFII11
